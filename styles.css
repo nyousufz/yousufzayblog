@@ -1,0 +1,42 @@
+ul {
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	background: transparent;
+	background-color: darkblue;
+			
+}
+
+li {
+	float:left;
+}
+
+li a{
+	display:block;
+	text-allign:center;
+	padding:40px;
+	color:white;
+	text-decoration:none;
+}
+
+li a:hover{
+	background-color: blue;
+}
+
+body {
+	background-color: lightblue;
+}
+
+p{
+	
+	font-size:18px;
+	color:black;
+	font-family: Verdana;
+}
+p.styles{
+	font-size:18px;
+	color:black;
+	font-family: Verdana;
+}
+			
